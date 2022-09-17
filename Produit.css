@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:black;
+}
+
+.menu {
+    background-color:blanchedalmond;
+    display: flex;
+    align-items: center;
+
+}
+
+.bouclier {
+    width: 5%;
+    height: auto;
+    display: block;
+    margin-left: 40px;
+}
+
+.marque {
+    font-family: 'Russo One', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    margin-left: 50px;
+}
+
+.boutons {
+    text-align: right;
+    display: flex;
+    margin-left: 50px;
+    font-family: 'Russo One', sans-serif;
+}
+
+.des {
+    color: blanchedalmond;
+    text-align: center;
+    margin-top: 30px;
+}
+
+a {
+    margin-left: 80px;
+    color: black;
+}
+
+a:hover {
+    font-weight: bold;
+    border: 3px;
+}
+
+.nodus {
+    display: block;
+    width: 100%;
+    height: 900px;
+}
+
+p {
+    margin: 20px;
+    color: white;
+}
+
+li {
+    margin: 20px;
+}
+
+.ddescription {
+    color: blanchedalmond;
+    margin: 50px;
+    font-size: 150%;
+    border: 3px solid blanchedalmond;
+    padding: 20px;
+    text-align: justify;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: bold;
+}
+
+.ffiche {
+    color: blanchedalmond;
+    margin: 50px;
+    font-size: 150%;
+    border: 3px solid blanchedalmond;
+    padding: 20px;
+    text-align: justify;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: bold;
+}
+
+.mark {
+    font-family: 'Russo One', sans-serif;
+}
+
+.ccommander {
+    color: blanchedalmond;
+    margin: 50px;
+    font-size: 150%;
+    border: 3px solid blanchedalmond;
+    padding: 20px;
+    text-align: justify;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: bold;
+}
+
+html, body {
+    scroll-behavior: smooth;
+}
+
+.mail {
+    margin: 20px;
+    color: white; 
+}
+
+
