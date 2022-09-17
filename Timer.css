@@ -20,11 +20,11 @@ body {
 }
 
 .bouclier {
-    width: 5%;
+    width: 6%;
     height: auto;
     display: block;
     margin-right: 40%;
-    margin-left: 40px;
+    margin-left: 30px;
 }
 
 .menu {
